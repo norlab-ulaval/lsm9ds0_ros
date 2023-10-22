@@ -1,8 +1,8 @@
 import math
 
+import adafruit_lsm9ds0
 import board
 import busio
-import adafruit_lsm9ds0
 import rclpy
 import sensor_msgs.msg
 from rclpy.node import Node
